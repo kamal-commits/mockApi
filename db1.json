@@ -4,28 +4,28 @@
     "name": "Chowmein",
     "photo": "https://www.loveandoliveoil.com/wp-content/uploads/2015/03/soy-sauce-noodlesH2.jpg",
     "halfPrice": 50
-    "fullPrice":100
+    "fullPrice": 100
   },
    {
     "id": 2,
     "name": "Manchoorian",
     "photo": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/07/chicken-manchurian-1.jpg",
     "halfPrice": 60
-    "fullPrice":110
+    "fullPrice": 110
   },
    {
     "id": 3,
     "name": "French Fries",
     "photo": "https://images.media-allrecipes.com/userphotos/4488416.jpg",
     "halfPrice": 60
-    "fullPrice":110
+    "fullPrice": 110
   },
    {
     "id": 4,
     "name": "Momos",
     "photo": " https://economictimes.indiatimes.com/thumb/msid-70813564,width-1200,height-900,resizemode-4,imgsize-348620/momos.jpg?from=mdr",
     "halfPrice": 40
-    "fullPrice":80
+    "fullPrice": 80
   },
   
  
